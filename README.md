@@ -21,7 +21,7 @@ _Use GitHub Actions to publish your project to a Docker image._
 
 ## Step 4: Pull your image
 
-_Now things are running! :sparkles:_
+_Let's get publishing! :heart:_ 😊
 
 Whoa, now things are running! This may take a few minutes. This might take a tiny amount of time, so grab your popcorn :popcorn: and wait for the build to finish before moving on.
 
